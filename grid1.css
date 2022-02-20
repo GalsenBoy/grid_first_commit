@@ -6,8 +6,8 @@
 .grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-gap: 1rem;
-    padding: 1rem;
+    grid-gap: 1em;
+    margin: 1em;
 }
 
 img {
